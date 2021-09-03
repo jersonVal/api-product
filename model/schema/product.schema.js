@@ -17,7 +17,7 @@ const productSchema = new mongoose.Schema({
         required: true,
     },
     weigth: {
-        type: "Number",
+        type: "String",
         required: true
     },
     price: {

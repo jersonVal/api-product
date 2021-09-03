@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-import schema from '../schemas/product.schema.js';
+import schema from '../schema/product.schema.js';
 
 schema.statics = {
     create: function (data, cb){
