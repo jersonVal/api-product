@@ -1,0 +1,28 @@
+{
+  "name": "api-product",
+  "version": "1.0.0",
+  "description": "just an api with basic crud made in mongoDB",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jersonVal/api-product.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jersonVal/api-product/issues"
+  },
+  "homepage": "https://github.com/jersonVal/api-product#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4",
+    "nodemon": "^2.0.12"
+  }
+}

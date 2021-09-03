@@ -1,0 +1,11 @@
+{
+    "server-port": 3001,
+    "db-connections": {
+        "mongodb":{
+            "host": "cluster0.ajxyt.mongodb.net",
+            "user": "api_rest_user",
+            "password": "7sJrUAOF7dzTw5Ma",
+            "dbname":"productDB"
+        }
+    }
+}
